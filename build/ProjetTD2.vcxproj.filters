@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\GitHub\INF1015\TP2\TD2_1015_E24\bibliotheque_cours\bibliotheque_cours.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\INF1015\TP2\TD2_1015_E24\bibliotheque_cours\verification_allocation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\INF1015\TP2\TD2_1015_E24\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\GitHub\INF1015\TP2\TD2_1015_E24\Concepteur.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\INF1015\TP2\TD2_1015_E24\Developpeur.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\INF1015\TP2\TD2_1015_E24\Jeu.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\INF1015\TP2\TD2_1015_E24\ListeConcepteurs.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\INF1015\TP2\TD2_1015_E24\ListeDeveloppeurs.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\INF1015\TP2\TD2_1015_E24\ListeJeux.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\INF1015\TP2\TD2_1015_E24\include\CodeCoverage_bugfix.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\INF1015\TP2\TD2_1015_E24\include\bibliotheque_cours.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\INF1015\TP2\TD2_1015_E24\include\debogage_memoire.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\INF1015\TP2\TD2_1015_E24\include\verification_allocation.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\GitHub\INF1015\TP2\TD2_1015_E24\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{469B17CC-58F6-3DD6-955F-DDEE6A698604}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{9914BD45-665B-37D1-BE5B-3F1004920B0D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
